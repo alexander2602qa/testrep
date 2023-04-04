@@ -2,4 +2,5 @@ some text
 Changes 
 local changes
 remote changes
+final test
 
