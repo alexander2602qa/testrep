@@ -1,3 +1,5 @@
 some text
 Changes 
 local changes
+remote changes
+
